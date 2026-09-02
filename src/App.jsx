@@ -3,6 +3,7 @@ import { portfolioData } from './data/portfolioData'
 import './App.css'
 import './project-stack.css'
 import './project-scroll.css'
+import './sticky-fix.css'
 import './font-overrides.css'
 
 const IconArrow = ({ down = false }) => <svg viewBox="0 0 24 24" aria-hidden="true"><path d={down ? 'M12 4v16m0 0 6-6m-6 6-6-6' : 'M7 17 17 7M8 7h9v9'} /></svg>
