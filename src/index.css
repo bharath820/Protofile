@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap');
+:root { font-family: 'Manrope', Arial, sans-serif; color: #e8edf2; background: #101719; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+.github-proof{display:flex;align-items:center;gap:9px;width:max-content;margin-top:24px;color:#aaa6a1;text-decoration:none;font:8px 'DM Mono',monospace;letter-spacing:.04em}.github-proof svg{color:#d7f46a}.github-proof b{color:#f0efeb;font-weight:500}.github-proof strong{padding-left:10px;border-left:1px solid #4a4541;color:#d7f46a;font-weight:400}
+* { box-sizing: border-box; } html { scroll-behavior: smooth; } body { margin: 0; min-width: 320px; } a { color: inherit; }

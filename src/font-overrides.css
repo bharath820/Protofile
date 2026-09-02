@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+.portfolio,
+.portfolio button,
+.portfolio input,
+.portfolio textarea{font-family:'Inter',Arial,sans-serif}
+.portfolio h1,
+.portfolio h2,
+.portfolio h3,
+.portfolio .logo,
+.portfolio .site-footer>span{font-family:'Space Grotesk',Arial,sans-serif}
+.portfolio .overline,
+.portfolio .nav-mail,
+.portfolio .stat span,
+.portfolio .timeline-location,
+.portfolio .tech-tags span,
+.portfolio .project-links,
+.portfolio .site-footer{font-family:'IBM Plex Mono',monospace}
+.portfolio h1{font-weight:600;letter-spacing:-.065em}
+.portfolio h2{font-weight:500;letter-spacing:-.055em}
+.portfolio h3{font-weight:500;letter-spacing:-.035em}
+.portfolio .hero-summary,
+.portfolio .section-lede,
+.portfolio .about-copy p,
+.portfolio .timeline-item ul,
+.portfolio .project-info>div:first-child>p:not(.overline),
+.portfolio .contact-inner>p:not(.overline){font-family:'Inter',Arial,sans-serif}
