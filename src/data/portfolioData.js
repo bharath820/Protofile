@@ -42,6 +42,14 @@ export const portfolioData = {
     CloudAI: ['Firebase Hosting', 'Firebase Auth', 'Azure App', 'OpenAI API', 'Prompt Engineering'],
     Tools: ['Git', 'GitHub', 'Postman', 'Agile/Scrum', 'Code Reviews', 'Modular Components'],
   },
+  services: [
+    { title: 'Frontend Development', description: 'Building fast, responsive, and accessible interfaces with React.js, TypeScript, and modern UI systems.' },
+    { title: 'Backend Development', description: 'Designing secure REST APIs, authentication flows, and reliable server-side systems with Node.js and Express.js.' },
+    { title: 'Full Stack Web Applications', description: 'Taking products from idea to production with connected frontend, backend, database, and deployment workflows.' },
+    { title: 'AI-Powered Applications', description: 'Adding practical AI features with OpenAI APIs, prompt engineering, and intelligent product experiences.' },
+    { title: 'Database Design & Optimization', description: 'Creating efficient MongoDB and MySQL structures, optimizing queries, and ensuring reliable data management.' },
+    { title: 'Deployment & Cloud Solutions', description: 'Deploying and maintaining applications with Firebase, Azure, Vercel, and production-ready cloud workflows.' },
+  ],
   projects: [
     { name: 'ScrapGuru', type: 'scrap', category: 'Web + Mobile', description: 'A sell-scrap-online platform with responsive web experience and production-ready mobile releases.', features: ['Secure authentication', 'Dynamic data handling', 'Real-time content management', 'Published on Google Play and Apple App Store'], tech: ['React.js', 'React Native', 'Firebase'], live: 'https://scrapguru.co/', source: 'https://github.com/bharath820' },
     { name: 'VOVO Mobility Platform', type: 'vovo', category: 'Mobile ecosystem', description: 'A Rapido-style ride-booking product with separate user and driver apps working as one connected platform.', features: ['User booking experience', 'Driver workflow', 'Two connected mobile apps'], tech: ['React Native', 'Firebase'], live: 'https://play.google.com/store/apps/details?id=com.nexes.vovouser', driver: 'https://play.google.com/store/apps/details?id=com.nexes.vovodriver' },

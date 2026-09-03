@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <radialGradient id="g" cx="70%" cy="48%"><stop stop-color="#31103d"/><stop offset="1" stop-color="#090909"/></radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <path d="M0 710C330 620 560 780 820 630S1260 430 1600 560V900H0Z" fill="#050505" opacity=".7"/>
+  <circle cx="1160" cy="440" r="190" fill="#171022" stroke="#8c21bd" stroke-opacity=".45"/>
+  <text x="90" y="390" fill="#d7e2ea" font-family="Arial,sans-serif" font-size="116" font-weight="800">BUILDING</text>
+  <text x="90" y="500" fill="#fff" font-family="Arial,sans-serif" font-size="116" font-weight="800">SCALABLE</text>
+</svg>
